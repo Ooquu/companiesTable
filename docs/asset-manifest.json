@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/companiestable/static/css/main.ab826138.css",
+    "main.js": "/companiestable/static/js/main.7f266703.js",
+    "index.html": "/companiestable/index.html",
+    "main.ab826138.css.map": "/companiestable/static/css/main.ab826138.css.map",
+    "main.7f266703.js.map": "/companiestable/static/js/main.7f266703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab826138.css",
+    "static/js/main.7f266703.js"
+  ]
+}
