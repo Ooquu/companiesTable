@@ -1,0 +1,6 @@
+.selectCompany {
+  width: min(100%, 300px);
+  height: 50px;
+  text-indent: 10px;
+  cursor: pointer;
+}
